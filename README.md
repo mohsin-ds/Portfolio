@@ -28,12 +28,19 @@ A responsive **portfolio website** built using **HTML and CSS**, showcasing my s
 ## 📁 Project Structure
 
 Portfolio/
+
 │
+
 ├── index.html
+
 ├── css/
+
 │ └── portfolio.css
+
 ├── images/
+
 │ └── mohsin.jpg
+
 └── README.md
 
 ## ⚙️ How to Run Locally
@@ -42,13 +49,13 @@ Portfolio/
    ```bash
    git clone https://github.com/mohsin-ds/portfolio.git
 
-Open the folder:
+2. Open the folder:
 
-cd portfolio
+   cd portfolio
 
-Run the project by opening:
+3. Run the project by opening:
 
-index.html
+   index.html
 
 in your browser.
 
