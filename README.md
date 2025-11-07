@@ -50,11 +50,11 @@ Portfolio/
    git clone https://github.com/mohsin-ds/portfolio.git
 
 2. Open the folder:
-
+   ```bash
    cd portfolio
 
-3. Run the project by opening:
-
+4. Run the project by opening:
+   ```bash
    index.html
 
 in your browser.
